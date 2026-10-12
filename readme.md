@@ -26,7 +26,7 @@ A modern, fast, and 100% privacy-focused web application to analyze who doesn't 
    - Once downloaded, extract the ZIP file to find `followers_1.json` and `following.json`.
 
 2. **Analyze Your Data on the Web App**:
-   - Open the live web app link (e.g., `https://your-app-name.vercel.app`).
+   - Open the live web app link `https://ig-unfollow-check.vercel.app`.
    - Drag & drop your `followers` file and `following` file into their respective dropboxes.
    - The app will instantly display total followers, following count, and a list of accounts that don't follow you back.
    - Click **Unfollow ↗** on any user to visit their profile directly, or click **Export TXT** to save the list.
@@ -42,7 +42,7 @@ A modern, fast, and 100% privacy-focused web application to analyze who doesn't 
    - Ekstrak file ZIP yang diunduh untuk mendapatkan file `followers_1.json` dan `following.json`.
 
 2. **Analisis Data di Aplikasi Web**:
-   - Buka tautan web app kamu (contoh: `https://nama-app-kamu.vercel.app`).
+   - Buka tautan web `https://ig-unfollow-check.vercel.app`.
    - *Drag & drop* (seret dan lepas) file `followers` dan file `following` ke kotak yang tersedia.
    - Aplikasi akan langsung menampilkan statistik total *followers*, *following*, serta daftar akun yang tidak membalas *follow* kamu.
    - Klik **Unfollow ↗** untuk membuka profil pengguna secara langsung, atau klik **Ekspor TXT** untuk menyimpan daftarnya.
@@ -61,8 +61,8 @@ A modern, fast, and 100% privacy-focused web application to analyze who doesn't 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/USERNAME_ANDA/NAMA_REPO_ANDA.git
-   cd NAMA_REPO_ANDA
+   git clone https://github.com/Padilu/ig_unfollow_check.git
+   cd ig_unfollow_check
    ```
 
 2. **Install dependencies**:
@@ -90,8 +90,8 @@ A modern, fast, and 100% privacy-focused web application to analyze who doesn't 
 
 1. **Kloning repository**:
    ```bash
-   git clone https://github.com/USERNAME_ANDA/NAMA_REPO_ANDA.git
-   cd NAMA_REPO_ANDA
+   git clone https://github.com/Padilu/ig_unfollow_check.git
+   cd ig_unfollow_check
    ```
 
 2. **Instal dependensi project**:
